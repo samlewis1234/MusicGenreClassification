@@ -6,3 +6,4 @@ Goals, reflection, and code explanations can be found in the attached file which
 
 Apologies for the poor formatting: This project was created in Google CoLab, where it shrinks the output of my model summary function. Since some of these took quite some time to train over 500 or 1000 epochs, I chose to leave these long summaries rather than retrain my models with a modified summary function.
 
+The dataset used can be found here: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
